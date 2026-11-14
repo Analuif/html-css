@@ -1,6 +1,5 @@
 # Paletas de cores 
 
-
 ## Informações
 
 - Link do vídeo: https://youtu.be/KC8dm9OvIOU?si=Vq-QzG322lP04olV
